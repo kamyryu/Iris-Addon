@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- 
+
 <item>
-<title>peliculas</title>
+<title>Peliculas </title>        
+<urlsolve>https://www.youtube.com/watch?v=SHq2qrFUlGY</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>https://www.youtube.com/watch?v=3JZ7iNWGsB4</link>
-<externallink>https://raw.githubusercontent.com/kamyryu/Iris-Addon/master/index.xml</externallink>
 </item>
- 
-<item>
-<title>series</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
-<externallink></externallink>
-</item>
- 
-<item>
-<title>anime</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
-<externallink></externallink>
-</item>
- 
