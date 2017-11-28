@@ -5,7 +5,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/kamyryu/Iris-Addon/2a916995b7e1e849fe8e6d7e4ac713c20ed44aa3/Peliculas.xml</externallink>
+<externallink>https://raw.githubusercontent.com/kamyryu/Iris-Addon/master/Peliculas.xml</externallink>
 </item>
  
 <item>
@@ -13,7 +13,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/kamyryu/Iris-Addon/2a916995b7e1e849fe8e6d7e4ac713c20ed44aa3/Series.xml</externallink>
+<externallink>https://raw.githubusercontent.com/kamyryu/Iris-Addon/master/Series.xml</externallink>
 </item>
  
 <item>
@@ -21,6 +21,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/kamyryu/Iris-Addon/4c8800c158db6707faf2fdbc6530add938713d5e/Anime.xml</externallink>
+<externallink>https://raw.githubusercontent.com/kamyryu/Iris-Addon/master/Anime.xml</externallink>
 </item>
  
